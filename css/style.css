@@ -42,7 +42,7 @@ ul {
   justify-content: space-between;
 }
 .news-item + .news-item {
-  margin-top: 1rem;
+  margin-top: 0.75rem;
 }
 
 .news-item__meta {

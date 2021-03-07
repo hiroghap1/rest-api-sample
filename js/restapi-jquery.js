@@ -3,7 +3,7 @@ $(function (){
     const posts = 3;// 取得する記事数
 
     $.getJSON(url+'wp-json/wp/v2/posts?_embed&per_page='+posts, function(json) {
-        console.log(json);
+        // console.log(json);
         const postNum = json.length;
         let html = '';
         for(let i = 0; i < postNum; i++) {
@@ -14,5 +14,7 @@ $(function (){
                 '</time></div><h3 class="news-item__title">' + json[i].title.rendered + '</h3></li>';
         }
         $('#news-list-jquery').html(html);
+    }).error(function(jqXHR, textStatus, errorThrown) {
+        $('#news-list-jquery').text('データを取得できませんでした。しばらくしてからお試しください。');
     });
 });

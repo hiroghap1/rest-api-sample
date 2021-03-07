@@ -24,9 +24,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1c871f5f-ac7d-4619-9986-30a8c3506009" name="デフォルト変更リスト" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/restapi-jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/restapi-jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/restapi.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/restapi.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615086179541</updated>
-      <workItem from="1615086181011" duration="4953000" />
+      <workItem from="1615086181011" duration="5510000" />
     </task>
     <servers />
   </component>

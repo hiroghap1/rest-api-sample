@@ -5,12 +5,14 @@
     <title>WordPressデータ取得サンプル</title>
     <link rel="stylesheet" href="css/style.css">
     <script src="js/restapi.js" defer></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous" defer></script>
     <script src="js/restapi-jquery.js" defer></script>
 </head>
 <body>
 <header>
     <div class="header-inner">
         <h1>WordPressデータ取得サンプル</h1>
+        <p><a href="https://sample.tada-fla.com/rest-sample/" target="_blank" rel="noopener norefferer">https://sample.tada-fla.com/rest-sample/</a>の記事データを取得します。</p>
     </div>
 </header>
 <main>
@@ -37,8 +39,9 @@
             <h2 class="section-title">JavaScriptでWordPressの記事を取得しています。</h2>
             <div class="section-body">
                 <ul id="news-list-js" class="news-list">
-                    <li class="news-item">
-                        <div class="news-item__meta skeleton"></div><h3 class="news-item__title skeleton"></h3>
+                    <li>
+                        <div class="news-loader"></div>
+                        <div class="text-center">Loading...</div>
                     </li>
                 </ul>
             </div>

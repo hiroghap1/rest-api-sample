@@ -11,6 +11,11 @@ img {
   height: auto;
 }
 
+ul {
+  margin-left: 0;
+  padding-left: 0;
+}
+
 .text-center {
   text-align: center;
 }

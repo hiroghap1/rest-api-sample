@@ -1,5 +1,6 @@
 # REST APIを用いてWordPressの記事を取得する
 JavaScript（jQuery）で静的なHTMLページからWordPressの記事を取得します。
+※WordPressのパーマリンク設定を基本以外にしてください。
 
 ## jQueryで記事を取得する
 jQueryの$.getJSONでREST APIにアクセスして記事を取得します。

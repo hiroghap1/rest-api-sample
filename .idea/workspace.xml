@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfb8b4aa-834e-4666-84dc-9ec90fd83b49" name="デフォルト変更リスト" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/restapi-jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/restapi-jquery.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,7 @@
       <updated>1615086014757</updated>
       <workItem from="1615086015918" duration="144000" />
       <workItem from="1634064784806" duration="1151000" />
-      <workItem from="1634065998951" duration="19000" />
+      <workItem from="1634065998951" duration="62000" />
     </task>
     <servers />
   </component>

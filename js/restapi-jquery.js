@@ -14,9 +14,6 @@ $(function (){
                 date.getFullYear() + '-' + ('0' + (date.getMonth() + 1)).slice(-2) + '-' + ('0' + date.getDate()).slice(-2) + '">' +
                 date.getFullYear() + '年' + (date.getMonth() + 1) + '月' + date.getDate() +'日' +
                 '</time></div><h3 class="news-item__title">' + json[i].title.rendered + '</h3>';
-            if(image) {
-                html += '<img src="' + image[0]['source_url'] + '" alt="">';
-            }
             html += '</li>';
         }
         $('#news-list-jquery').html(html);

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c871f5f-ac7d-4619-9986-30a8c3506009" name="デフォルト変更リスト" comment="">
+    <list default="true" id="bfb8b4aa-834e-4666-84dc-9ec90fd83b49" name="デフォルト変更リスト" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/restapi-jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/restapi-jquery.js" afterDir="false" />
     </list>
@@ -37,46 +16,43 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="SCSS File" />
-        <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1pPYQxfedHH7zJj6fzTCTDX3VJF" />
+  <component name="ProjectId" id="1pPY6B2S3SNezUIEs23K9rktzUX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1c871f5f-ac7d-4619-9986-30a8c3506009" name="デフォルト変更リスト" comment="" />
-      <created>1615086179541</created>
+      <changelist id="bfb8b4aa-834e-4666-84dc-9ec90fd83b49" name="デフォルト変更リスト" comment="" />
+      <created>1615086014757</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1615086179541</updated>
-      <workItem from="1615086181011" duration="7180000" />
-      <workItem from="1623911125280" duration="383000" />
-      <workItem from="1625042993852" duration="756000" />
-      <workItem from="1627458701529" duration="810000" />
+      <updated>1615086014757</updated>
+      <workItem from="1615086015918" duration="144000" />
+      <workItem from="1634064784806" duration="1151000" />
+      <workItem from="1634065998951" duration="19000" />
     </task>
     <servers />
   </component>
@@ -94,15 +70,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="808" y="385" key="EditFileWatcherDialog" timestamp="1615087490213">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state x="808" y="385" key="EditFileWatcherDialog/1920.98.1920.1057/0.23.1920.1177@0.23.1920.1177" timestamp="1615087490213" />
-    <state x="684" y="239" key="SettingsEditor" timestamp="1615087482307">
-      <screen x="0" y="23" width="1920" height="1177" />
-    </state>
-    <state x="684" y="239" key="SettingsEditor/1920.98.1920.1057/0.23.1920.1177@0.23.1920.1177" timestamp="1615087482307" />
   </component>
 </project>

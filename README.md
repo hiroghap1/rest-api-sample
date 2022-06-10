@@ -2,6 +2,9 @@
 JavaScript（jQuery）で静的なHTMLページからWordPressの記事を取得します。
 ※WordPressのパーマリンク設定を基本以外にしてください。
 
+サンプルページ  
+https://hiroghap1.github.io/rest-api-sample/
+
 ## jQueryで記事を取得する
 jQueryの$.getJSONでREST APIにアクセスして記事を取得します。
 jQueryとrestapi-jquery.jsを読み込んでください。

@@ -8,14 +8,20 @@ $(function (){
         const postNum = json.length;
         let html = '';
         for(let i = 0; i < postNum; i++) {
+            // 投稿日時を取得
             const date = new Date(json[i].date);
-            html += '<li class="news-item"><div class="news-item__meta"><time datetime="'+
-                date.getFullYear() + '-' + ('0' + (date.getMonth() + 1)).slice(-2) + '-' + ('0' + date.getDate()).slice(-2) + '">' +
-                date.getFullYear() + '年' + (date.getMonth() + 1) + '月' + date.getDate() +'日' +
-                '</time></div><h3 class="news-item__title">' + json[i].title.rendered + '</h3></li>';
+
+            // HTMLを設定
+            html += '<li class="news-item">';
+            // 投稿日時
+            html += '<div class="news-item__meta"><time datetime="'+ date.getFullYear() + '-' + ('0' + (date.getMonth() + 1)).slice(-2) + '-' + ('0' + date.getDate()).slice(-2) + '">' +
+                date.getFullYear() + '年' + (date.getMonth() + 1) + '月' + date.getDate() +'日</time></div>';
+            // 投稿タイトル
+            html += '<h3 class="news-item__title">' + json[i].title.rendered + '</h3></li>';
         }
         $('#news-list-jquery').html(html);
     }).fail(function(jqXHR, textStatus, errorThrown) {
+        // エラー時の処理
         $('#news-list-jquery').text('データを取得できませんでした。しばらくしてからお試しください。');
     });
 });

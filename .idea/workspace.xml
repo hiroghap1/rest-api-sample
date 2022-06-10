@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfb8b4aa-834e-4666-84dc-9ec90fd83b49" name="デフォルト変更リスト" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/restapi-jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/restapi-jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/restapi.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/restapi.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +24,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1pPY6B2S3SNezUIEs23K9rktzUX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -51,7 +57,8 @@
       <updated>1615086014757</updated>
       <workItem from="1615086015918" duration="144000" />
       <workItem from="1634064784806" duration="1151000" />
-      <workItem from="1634065998951" duration="62000" />
+      <workItem from="1634065998951" duration="560000" />
+      <workItem from="1654823221271" duration="386000" />
     </task>
     <servers />
   </component>
@@ -68,6 +75,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
